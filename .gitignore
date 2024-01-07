@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Flashcards (Kotlin)/*
+!/Flashcards (Kotlin)/task/
+/Flashcards (Kotlin)/task/*
+!/Flashcards (Kotlin)/task/src
+!/Flashcards (Kotlin)/task/mistakes.txt
+!/Flashcards (Kotlin)/task/-export
+
+# Project exclude paths
+/Topics/Inheritance/Fix bugs/out/
+/Topics/Inheritance/Fix bugs/out/production/classes/
+/Topics/Inheritance/Statements about inheritance/out/
+/Topics/Inheritance/Statements about inheritance/out/production/classes/
